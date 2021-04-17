@@ -31,7 +31,6 @@ I STAND for:
 
 
 
-## I'm a frontend web developer
 - 🌱 I’m currently learning backend technologies 🤣
 - 👯 I’m looking to collaborate with other content creators
 
