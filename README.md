@@ -37,8 +37,11 @@ I STAND for:
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px"  src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Saiful-Islam45&repo=github-readme-stats)](https://github.com/Saiful-Islam45/Saiful-Islam45)
+
+
+[<img align="left" alt="codeSTACKr.com" width="22px" style="color:black"  src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" style="color:black" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -68,7 +71,7 @@ I STAND for:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Easiest and Efficient way to develop SPA react project ...](href="https://medium.com/@saiful.islam.ice.45/easiest-and-efficient-way-to-develop-spa-react-project-5126451d6f93?source=friends_link&sk=fb00f7dc88a594fc5e85bb7ada2e7c68)
+- [Easiest and Efficient way to develop SPA react project](href="https://medium.com/@saiful.islam.ice.45/easiest-and-efficient-way-to-develop-spa-react-project-5126451d6f93?source=friends_link&sk=fb00f7dc88a594fc5e85bb7ada2e7c68)
 - [Step By Step React Router for Beginner](https://medium.com/@saiful.islam.ice.45/how-to-use-react-router-eb1dfbe6bd2d?source=friends_link&sk=db31fc3cb327cfa5df44816e20b763fe)
 - [Simple Overview on Cross Browser Testing](https://medium.com/@saiful.islam.ice.45/how-to-use-react-router-eb1dfbe6bd2d?source=friends_link&sk=db31fc3cb327cfa5df44816e20b763fe)
 <!-- BLOG-POST-LIST:END -->
