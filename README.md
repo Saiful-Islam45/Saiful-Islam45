@@ -36,8 +36,11 @@ I STAND for:
 
 
 ### Connect with me:
-
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Saiful-Islam45&repo=github-readme-stats)](https://github.com/Saiful-Islam45/Saiful-Islam45/main/README.md)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Saiful-Islam45&show_icons=true&count_private=true&theme=nightowl" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiful-Islam45&theme=nightowl" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Saiful-Islam45&theme=nightowl" />
+</div>
 
 
 [<img align="left" alt="codeSTACKr.com" width="22px" style="color:black"  src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
