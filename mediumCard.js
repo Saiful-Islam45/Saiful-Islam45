@@ -6,6 +6,7 @@ const mediumUsername = 'yourusername';
 async function fetchLatestMediumPost() {
   const response = await fetch(`https://medium-rss-badge.vercel.app/api/user/${mediumUsername}`);
   const data = await response.json();
+  console.log("data:", data);
 
   const latestPost = data.items[0]; // Assuming the first item is the latest post
 
