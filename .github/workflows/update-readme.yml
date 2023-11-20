@@ -3,6 +3,9 @@ name: Update README with Latest Medium Post
 on:
   schedule:
     - cron: '*/15 * * * *'  # Run every minute
+  push:
+    branches:
+      - main
 
 jobs:
   update-readme:
