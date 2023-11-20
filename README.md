@@ -1,101 +1,37 @@
+<h1 align="center">Hi 👋, I'm Saiful Islam</h1>
+<h3 align="center">A passionate full stack software developer from Bangladesh</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saiful-islam45&label=Profile%20views&color=0e75b6&style=flat" alt="saiful-islam45" /> </p>
 
-<!--
-**Saiful-Islam45/Saiful-Islam45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiful-islam45" alt="saiful-islam45" /></a> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Car Rental Project](https://github.com/Saiful-Islam45/car-service-frontend)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- Header gif -->
-## <p align='center'>Hey there, I'm Saiful.<p>
-<!-- <p align='center'><img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/dan_bio1.gif"></p> -->
-<!-- Social links -->
+- 🌱 I’m currently learning **Nextjs, docker, aws**
 
-<!-- Greeting -->
+- 👨‍💻 All of my projects are available at [https://saiful-dev.netlify.app/](https://saiful-dev.netlify.app/)
 
----
-<!-- About -->
-I'm a Full Software Developer. I have a passion for sleek, user-friendly design, and I love writing nicely architected, clean, and maintainable code, working with other people on solving tough problems, and learning new things along the way.
-I STAND for: 
-            - Diversity
-            - Inclusion
-            - Equality             
+- 💬 Ask me about **Expressjs, mongodb, reactjs**
 
+- 📫 How to reach me **saiful.islam.ice.45@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1XntzN5fgMUHaM2FqQRmtjFfN_eA1YOSr/view?usp=sharing](https://drive.google.com/file/d/1XntzN5fgMUHaM2FqQRmtjFfN_eA1YOSr/view?usp=sharing)
 
-- 🌱 I’m currently learning backend technologies 🤣
-- 👯 I’m looking to collaborate with other content creators
-
-
-### Connect with me:
-            
-            
-[<img align="left" alt="codeSTACKr.com" width="22px" style="color:black"  src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" style="color:black" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-            <br/><br/>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Saiful-Islam45&show_icons=true&count_private=true&theme=nightowl" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiful-Islam45&theme=nightowl" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Saiful-Islam45&theme=nightowl" />
-</div>
-
-
-
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
-<br />
-<br />
-
-
----
-
-### 📕 Latest Blog Posts
-
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Easiest and Efficient way to develop SPA react project](href="https://medium.com/@saiful.islam.ice.45/easiest-and-efficient-way-to-develop-spa-react-project-5126451d6f93?source=friends_link&sk=fb00f7dc88a594fc5e85bb7ada2e7c68)
-- [Step By Step React Router for Beginner](https://medium.com/@saiful.islam.ice.45/how-to-use-react-router-eb1dfbe6bd2d?source=friends_link&sk=db31fc3cb327cfa5df44816e20b763fe)
-- [Simple Overview on Cross Browser Testing](https://medium.com/@saiful.islam.ice.45/how-to-use-react-router-eb1dfbe6bd2d?source=friends_link&sk=db31fc3cb327cfa5df44816e20b763fe)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://medium.com/@saiful.islam.ice.45)
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/md-saiful-islam-63s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-saiful-islam-63s" height="30" width="40" /></a>
+<a href="https://medium.com/@saiful-islam-ice-45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saiful-islam-ice-45" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-</details>
-<!--
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiful-islam45&show_icons=true&locale=en&layout=compact" alt="saiful-islam45" /></p>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiful-islam45&show_icons=true&locale=en" alt="saiful-islam45" /></p>
 
-</details> -->
-
-[website]: https://saiful-islam45.github.io/saiful-s-portfolio/
-[linkedin]: https://www.linkedin.com/in/md-saiful-islam-66896b198/
-[Medium Blogs]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiful-islam45&" alt="saiful-islam45" /></p>
