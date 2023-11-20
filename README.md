@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ---
 <!-- About -->
-I'm a Frontend Software Developer. I have a passion for sleek user-friendly design and I love writing nicely architectured, clean and maintainable code, working with other people on solving tough problems, and learning new things along the way.
+I'm a Full Software Developer. I have a passion for sleek, user-friendly design, and I love writing nicely architected, clean, and maintainable code, working with other people on solving tough problems, and learning new things along the way.
 I STAND for: 
             - Diversity
             - Inclusion
