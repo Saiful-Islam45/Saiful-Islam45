@@ -1,34 +1,30 @@
-name: Update README with Latest Medium Post
+# name: Update README with Latest Medium Post
 
-on:
-  schedule:
-    - cron: '*/15 * * * *'  # Run every minute
-  push:
-    branches:
-      - main
+# on:
+#   schedule:
+#     - cron: '*/15 * * * *'  # Run every minute
+# jobs:
+#   update-readme:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout Repository
+#         uses: actions/checkout@v2
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+#       - name: Setup Node.js
+#         uses: actions/setup-node@v3
+#         with:
+#           node-version: '14'
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '14'
+#       - name: Install Dependencies
+#         run: npm install
 
-      - name: Install Dependencies
-        run: npm install
+#       - name: Run Update Script
+#         run: node mediumCard.js
 
-      - name: Run Update Script
-        run: node mediumCard.js
-
-      - name: Commit and Push Changes
-        run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@github.com'
-          git add .
-          git commit -m 'Update README with latest Medium post'
-          git push
+#       - name: Commit and Push Changes
+#         run: |
+#           git config --global user.name 'GitHub Actions'
+#           git config --global user.email 'actions@github.com'
+#           git add .
+#           git commit -m 'Update README with latest Medium post'
+#           git push
