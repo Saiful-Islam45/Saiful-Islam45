@@ -3,6 +3,8 @@ on:
   push:
     branches:
       - main
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' 
 permissions:
   contents: write # To write the generated contents to the readme
 
