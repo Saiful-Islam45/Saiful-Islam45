@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Nextjs, docker, aws**
 
-- 👨‍💻 All of my projects are available at [https://saiful-dev.netlify.app/](https://saiful-dev.netlify.app/)
+- 👨‍💻 Portfoilo Website [https://saiful-dev.netlify.app/](https://saiful-dev.netlify.app/)
 
 - 💬 Ask me about **Expressjs, mongodb, reactjs**
 
 - 📫 How to reach me **saiful.islam.ice.45@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XntzN5fgMUHaM2FqQRmtjFfN_eA1YOSr/view?usp=sharing](https://drive.google.com/file/d/1XntzN5fgMUHaM2FqQRmtjFfN_eA1YOSr/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1XntzN5fgMUHaM2FqQRmtjFfN_eA1YOSr/view?usp=sharing](https://drive.google.com/file/d/1XntzN5fgMUHaM2FqQRmtjFfN_eA1YOSr/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
