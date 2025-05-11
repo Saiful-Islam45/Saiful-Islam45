@@ -16,11 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [React Design Patterns with Real Examples](https://saiful-islam-ice-45.medium.com/react-design-patterns-with-real-examples-4a894596b444?source=rss-6fd0969b4496------2)
 - [NLP Tutorial Part-1](https://saiful-islam-ice-45.medium.com/nlp-tutorial-part-1-6d6288164fc2?source=rss-6fd0969b4496------2)
 - [Learn Golang from ChatGPT](https://saiful-islam-ice-45.medium.com/learn-golang-from-chatgpt-29c80c0b7dec?source=rss-6fd0969b4496------2)
 - [Does your code smell bad?](https://saiful-islam-ice-45.medium.com/do-you-have-code-smell-in-your-code-d211e529de9b?source=rss-6fd0969b4496------2)
 - [Different View of Fundamental JavaScript Algorithms.](https://saiful-islam-ice-45.medium.com/different-view-of-fundamental-javascript-algorithms-5a6323eced25?source=rss-6fd0969b4496------2)
-- [Mock Interview That Will Help You Get Hired …](https://saiful-islam-ice-45.medium.com/mock-interview-that-will-help-you-get-hired-6f69ae4fb189?source=rss-6fd0969b4496------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
